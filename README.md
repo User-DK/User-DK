@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daivik L.Karbhari</h1>
-<h3 align="center">An Aspiring Computer Science UnderGraduate.</h3>
+<h1 align="center">Hi 👋, I'm Daivik L. Karbhari</h1>
+<h3 align="center">An Aspiring Computer Science Under Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user-dk&label=Profile%20views&color=0e75b6&style=flat" alt="user-dk" /> </p>
 <p align="center"> <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="image" /> </p>
