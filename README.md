@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user-dk&label=Profile%20views&color=0e75b6&style=flat" alt="user-dk" /> </p>
 <p align="center"> <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="image" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript, Python**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 📫 How to reach me **daivikkarbhari01@gmail.com**
 
-- ⚡ Fun fact **I Love Github!!**
+- ⚡ **I Love Github, Machine Learning and DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
