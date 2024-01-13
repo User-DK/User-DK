@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/daivik-karbhari-0627b4263](https://www.linkedin.com/in/daivik-karbhari-0627b4263/)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/daivik-karbhari-0627b4263" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daivik-karbhari-0627b4263/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/daivik-karbhari-0627b4263" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I Use:</h3>
