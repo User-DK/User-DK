@@ -28,6 +28,7 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="js" width="40" height="40"/> </a></p>
   
 ![user-dk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user-dk&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<br>due to caching it might not show the correct stats
 
 ![user-dk's Stats](https://github-readme-stats.vercel.app/api?username=user-dk&theme=tokyonight&show_icons=true&hide_border=false)
 
