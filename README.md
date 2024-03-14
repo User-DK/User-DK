@@ -29,5 +29,6 @@
   
 ![user-dk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user-dk&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-![user-dk's Stats](https://github-readme-stats.vercel.app/api?username=user-dk&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![user-dk's Stats](https://github-readme-stats.vercel.app/api?username=user-dk&theme=tokyonight&show_icons=true&hide_border=false)
+
 
