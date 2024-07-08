@@ -18,6 +18,9 @@
 <a href="https://www.linkedin.com/in/daivik-karbhari-0627b4263/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/daivik-karbhari-0627b4263" height="30" width="40" /></a>
 </p>
 
+  ### See my PortFolio <a href="https://user-dk.github.io/DaivikKarbhari01/" target="_blank">here</a>
+  ### See my Blogging Website <a href="https://user-dk.github.io/" target="_blank">here</a>
+
 <h3 align="center">Languages and Tools I Use:</h3>
 <p align="center"> 
   <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="c" width="40" height="40"/> </a> 
