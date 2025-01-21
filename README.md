@@ -5,20 +5,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user-dk&label=Profile%20views&color=0e75b6&style=flat" alt="user-dk" /> </p>
 <p align="center"> <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="image" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Python**
+- 🌱 I’m currently learning Humans, and how world works!! besides Programming ;)
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **Real Problem Solving projects**
 
 - 📫 How to reach me **daivikkarbhari01@gmail.com**
 
-- ⚡ **I Love Github, Machine Learning and DSA**
+- ⚡ **I find Github to be the most fascinating product in terms of innovation and creativity (lots of love for Github)**
+  
+- ❄️ Also trying to integrate Machine Learning, and other awesome technologies in my Projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daivik-karbhari-0627b4263/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/daivik-karbhari-0627b4263" height="30" width="40" /></a>
 </p>
 
-  ### See my PortFolio <a href="https://user-dk.github.io/DaivikKarbhari01/" target="_blank">here</a>
   ### See my Blogging Website <a href="https://user-dk.github.io/" target="_blank">here</a>
 
 <h3 align="center">Languages and Tools I Use:</h3>
